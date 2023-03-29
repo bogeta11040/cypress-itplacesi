@@ -20,17 +20,17 @@ Or you can directly edit the ‘cookie’ environment variable in cypress.config
 
 
 ```
-npx cypress run test
+npm run test
 ```
 
 try also
 
 ```
-npx cypress run headedTest
+npm run headedTest
 ```
 
 ```
-npx cypress run chromeTest
+npm run chromeTest
 ```
 
 ## Take a look at:
